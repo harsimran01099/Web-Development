@@ -1,2 +1,2 @@
 # Web-Development
-Web development pracrtice code files
+Web development practice code files.
