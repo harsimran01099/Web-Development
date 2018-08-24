@@ -1,0 +1,37 @@
+body{
+    /* background: url(../HTML/german-shepherd-2jpg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+
+    background: pink;
+}
+
+h1{
+    /* color:red; */
+    /* color: #0C1B91; */
+    /* color: rgb(0,255,0); */
+    /* rgba -> last channel is alpha represents transparency , value is between 0 and 1*/
+    color: rgba(0, 0,0,.5);
+
+
+    /* border : width style color; */
+    /* border-width: 5px;
+    border-color: purple;
+    border-style: solid;   */
+    /* Border not worked until we define style */
+    /* solid, dashed , dotted */
+
+    border: 5px dashed green;
+}
+
+li{
+    color : rgb(240,0,100);
+}
+
+h4{
+    background: rgb(240,0,100); 
+}
+
+.highlight{
+    text-decoration: line-through;
+}
