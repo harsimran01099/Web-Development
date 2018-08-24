@@ -1,0 +1,8 @@
+Specificity order(means more specific styles applies to elements)
+
+1. Type selectors:
+    li{}
+    li a{}
+    li+a{}
+2. Class , attribute , pseudo class selectors
+3. ID selectors

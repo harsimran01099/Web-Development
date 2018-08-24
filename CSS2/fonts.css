@@ -1,0 +1,25 @@
+/* www.cssfontstack.com */
+/* ///// At root level em is 16px.//////  */
+
+p{
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 2;
+    text-align:center;
+    text-transform: uppercase;
+    text-decoration: overline;
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    font-size: 10px;
+}
+h1{
+    font-family: Georgia;
+
+    font-size: 5.0em;  
+    font-family: 'Gamja Flower', cursive; 
+}
+span{
+    font-size: 2.0em;
+}
